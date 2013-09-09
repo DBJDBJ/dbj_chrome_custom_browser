@@ -2,4 +2,4 @@
 
 ### Chrome Packaged App
 
-Inspired by one (or more) Chrome Packagrd Apps demos.
+Inspired by one (or more) Chrome Packaged Apps demos.
